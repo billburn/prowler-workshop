@@ -22,4 +22,5 @@
 - ```prowler dashboard``` #Prowler dashboard to review all findings
 - ```prowler aws --categories encryption```
 - ```prowler aws --list-categories```
-
+- ```prowler aws --category threat-detection```
+- ```prowler aws -c <name of check>``` #Run a single check
